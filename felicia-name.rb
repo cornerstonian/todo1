@@ -1,2 +1,0 @@
-name = "Felicia"
-puts name
